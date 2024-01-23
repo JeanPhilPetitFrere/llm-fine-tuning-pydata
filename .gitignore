@@ -1,0 +1,9 @@
+.vscode/
+.ipynb_checkpoints/
+.env
+# for macOS
+*.DS_Store
+
+# ignore cache
+__pycache__
+.pytest_cache/
